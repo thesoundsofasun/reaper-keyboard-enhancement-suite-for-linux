@@ -1,1 +1,1 @@
-# linux-keyboard-enhancement-suite-for-reaper
+# Reaper Keyboard Enhancement Suite for Linux
